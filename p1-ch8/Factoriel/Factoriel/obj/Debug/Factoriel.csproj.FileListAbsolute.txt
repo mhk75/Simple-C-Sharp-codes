@@ -1,0 +1,7 @@
+H:\projects\deitel-c#\p1-ch8\Factoriel\Factoriel\bin\Debug\Factoriel.exe.config
+H:\projects\deitel-c#\p1-ch8\Factoriel\Factoriel\bin\Debug\Factoriel.exe
+H:\projects\deitel-c#\p1-ch8\Factoriel\Factoriel\bin\Debug\Factoriel.pdb
+H:\projects\deitel-c#\p1-ch8\Factoriel\Factoriel\obj\Debug\Factoriel.csproj.AssemblyReference.cache
+H:\projects\deitel-c#\p1-ch8\Factoriel\Factoriel\obj\Debug\Factoriel.csproj.CoreCompileInputs.cache
+H:\projects\deitel-c#\p1-ch8\Factoriel\Factoriel\obj\Debug\Factoriel.exe
+H:\projects\deitel-c#\p1-ch8\Factoriel\Factoriel\obj\Debug\Factoriel.pdb

@@ -1,7 +1,0 @@
-H:\projects\deitel-c#\p1-ch4\Account\Account\bin\Debug\Account.exe.config
-H:\projects\deitel-c#\p1-ch4\Account\Account\bin\Debug\Account.exe
-H:\projects\deitel-c#\p1-ch4\Account\Account\bin\Debug\Account.pdb
-H:\projects\deitel-c#\p1-ch4\Account\Account\obj\Debug\Account.csproj.AssemblyReference.cache
-H:\projects\deitel-c#\p1-ch4\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
-H:\projects\deitel-c#\p1-ch4\Account\Account\obj\Debug\Account.exe
-H:\projects\deitel-c#\p1-ch4\Account\Account\obj\Debug\Account.pdb

@@ -1,7 +1,0 @@
-H:\projects\deitel-c#\p1-ch5\Analysis\Analysis\bin\Debug\Analysis.exe.config
-H:\projects\deitel-c#\p1-ch5\Analysis\Analysis\bin\Debug\Analysis.exe
-H:\projects\deitel-c#\p1-ch5\Analysis\Analysis\bin\Debug\Analysis.pdb
-H:\projects\deitel-c#\p1-ch5\Analysis\Analysis\obj\Debug\Analysis.csproj.AssemblyReference.cache
-H:\projects\deitel-c#\p1-ch5\Analysis\Analysis\obj\Debug\Analysis.csproj.CoreCompileInputs.cache
-H:\projects\deitel-c#\p1-ch5\Analysis\Analysis\obj\Debug\Analysis.exe
-H:\projects\deitel-c#\p1-ch5\Analysis\Analysis\obj\Debug\Analysis.pdb

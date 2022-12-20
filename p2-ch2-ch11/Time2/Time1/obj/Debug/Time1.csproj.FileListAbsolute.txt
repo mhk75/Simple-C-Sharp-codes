@@ -1,0 +1,8 @@
+H:\projects\deitel-c#\p2-ch2-ch11\Time1\Time1\bin\Debug\Time1.exe.config
+H:\projects\deitel-c#\p2-ch2-ch11\Time1\Time1\bin\Debug\Time1.exe
+H:\projects\deitel-c#\p2-ch2-ch11\Time1\Time1\bin\Debug\Time1.pdb
+H:\projects\deitel-c#\p2-ch2-ch11\Time1\Time1\obj\Debug\Time1.csproj.AssemblyReference.cache
+H:\projects\deitel-c#\p2-ch2-ch11\Time1\Time1\obj\Debug\Time1.csproj.SuggestedBindingRedirects.cache
+H:\projects\deitel-c#\p2-ch2-ch11\Time1\Time1\obj\Debug\Time1.csproj.CoreCompileInputs.cache
+H:\projects\deitel-c#\p2-ch2-ch11\Time1\Time1\obj\Debug\Time1.exe
+H:\projects\deitel-c#\p2-ch2-ch11\Time1\Time1\obj\Debug\Time1.pdb

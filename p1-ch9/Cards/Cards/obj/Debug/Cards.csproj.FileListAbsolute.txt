@@ -1,0 +1,7 @@
+H:\projects\deitel-c#\p1-ch9\Cards\Cards\bin\Debug\Cards.exe.config
+H:\projects\deitel-c#\p1-ch9\Cards\Cards\bin\Debug\Cards.exe
+H:\projects\deitel-c#\p1-ch9\Cards\Cards\bin\Debug\Cards.pdb
+H:\projects\deitel-c#\p1-ch9\Cards\Cards\obj\Debug\Cards.csproj.AssemblyReference.cache
+H:\projects\deitel-c#\p1-ch9\Cards\Cards\obj\Debug\Cards.csproj.CoreCompileInputs.cache
+H:\projects\deitel-c#\p1-ch9\Cards\Cards\obj\Debug\Cards.exe
+H:\projects\deitel-c#\p1-ch9\Cards\Cards\obj\Debug\Cards.pdb

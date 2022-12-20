@@ -1,0 +1,8 @@
+H:\projects\deitel-c#\p2-ch1-ch10\LINQ\LINQ\bin\Debug\LINQ.exe.config
+H:\projects\deitel-c#\p2-ch1-ch10\LINQ\LINQ\bin\Debug\LINQ.exe
+H:\projects\deitel-c#\p2-ch1-ch10\LINQ\LINQ\bin\Debug\LINQ.pdb
+H:\projects\deitel-c#\p2-ch1-ch10\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+H:\projects\deitel-c#\p2-ch1-ch10\LINQ\LINQ\obj\Debug\LINQ.csproj.SuggestedBindingRedirects.cache
+H:\projects\deitel-c#\p2-ch1-ch10\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+H:\projects\deitel-c#\p2-ch1-ch10\LINQ\LINQ\obj\Debug\LINQ.exe
+H:\projects\deitel-c#\p2-ch1-ch10\LINQ\LINQ\obj\Debug\LINQ.pdb

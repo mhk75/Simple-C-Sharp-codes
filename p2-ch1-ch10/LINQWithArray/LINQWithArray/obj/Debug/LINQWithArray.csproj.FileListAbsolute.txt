@@ -1,0 +1,7 @@
+H:\projects\deitel-c#\p2-ch1-ch10\LINQWithArray\LINQWithArray\bin\Debug\LINQWithArray.exe.config
+H:\projects\deitel-c#\p2-ch1-ch10\LINQWithArray\LINQWithArray\bin\Debug\LINQWithArray.exe
+H:\projects\deitel-c#\p2-ch1-ch10\LINQWithArray\LINQWithArray\bin\Debug\LINQWithArray.pdb
+H:\projects\deitel-c#\p2-ch1-ch10\LINQWithArray\LINQWithArray\obj\Debug\LINQWithArray.csproj.AssemblyReference.cache
+H:\projects\deitel-c#\p2-ch1-ch10\LINQWithArray\LINQWithArray\obj\Debug\LINQWithArray.csproj.CoreCompileInputs.cache
+H:\projects\deitel-c#\p2-ch1-ch10\LINQWithArray\LINQWithArray\obj\Debug\LINQWithArray.exe
+H:\projects\deitel-c#\p2-ch1-ch10\LINQWithArray\LINQWithArray\obj\Debug\LINQWithArray.pdb

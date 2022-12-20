@@ -1,0 +1,7 @@
+H:\projects\deitel-c#\p1-ch8\MaximumFinder\MaximumFinder\bin\Debug\MaximumFinder.exe.config
+H:\projects\deitel-c#\p1-ch8\MaximumFinder\MaximumFinder\bin\Debug\MaximumFinder.exe
+H:\projects\deitel-c#\p1-ch8\MaximumFinder\MaximumFinder\bin\Debug\MaximumFinder.pdb
+H:\projects\deitel-c#\p1-ch8\MaximumFinder\MaximumFinder\obj\Debug\MaximumFinder.csproj.AssemblyReference.cache
+H:\projects\deitel-c#\p1-ch8\MaximumFinder\MaximumFinder\obj\Debug\MaximumFinder.csproj.CoreCompileInputs.cache
+H:\projects\deitel-c#\p1-ch8\MaximumFinder\MaximumFinder\obj\Debug\MaximumFinder.exe
+H:\projects\deitel-c#\p1-ch8\MaximumFinder\MaximumFinder\obj\Debug\MaximumFinder.pdb

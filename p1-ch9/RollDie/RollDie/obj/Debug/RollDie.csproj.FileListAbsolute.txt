@@ -1,0 +1,14 @@
+H:\projects\deitel-c#\p1-ch8\RollDie\RollDie\bin\Debug\RollDie.exe.config
+H:\projects\deitel-c#\p1-ch8\RollDie\RollDie\bin\Debug\RollDie.exe
+H:\projects\deitel-c#\p1-ch8\RollDie\RollDie\bin\Debug\RollDie.pdb
+H:\projects\deitel-c#\p1-ch8\RollDie\RollDie\obj\Debug\RollDie.csproj.AssemblyReference.cache
+H:\projects\deitel-c#\p1-ch8\RollDie\RollDie\obj\Debug\RollDie.csproj.CoreCompileInputs.cache
+H:\projects\deitel-c#\p1-ch8\RollDie\RollDie\obj\Debug\RollDie.exe
+H:\projects\deitel-c#\p1-ch8\RollDie\RollDie\obj\Debug\RollDie.pdb
+H:\projects\deitel-c#\p1-ch9\RollDie\RollDie\bin\Debug\RollDie.exe.config
+H:\projects\deitel-c#\p1-ch9\RollDie\RollDie\bin\Debug\RollDie.exe
+H:\projects\deitel-c#\p1-ch9\RollDie\RollDie\bin\Debug\RollDie.pdb
+H:\projects\deitel-c#\p1-ch9\RollDie\RollDie\obj\Debug\RollDie.csproj.AssemblyReference.cache
+H:\projects\deitel-c#\p1-ch9\RollDie\RollDie\obj\Debug\RollDie.csproj.CoreCompileInputs.cache
+H:\projects\deitel-c#\p1-ch9\RollDie\RollDie\obj\Debug\RollDie.exe
+H:\projects\deitel-c#\p1-ch9\RollDie\RollDie\obj\Debug\RollDie.pdb

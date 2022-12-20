@@ -1,0 +1,7 @@
+H:\projects\deitel-c#\p1-ch9\Array\Array\bin\Debug\Array.exe.config
+H:\projects\deitel-c#\p1-ch9\Array\Array\bin\Debug\Array.exe
+H:\projects\deitel-c#\p1-ch9\Array\Array\bin\Debug\Array.pdb
+H:\projects\deitel-c#\p1-ch9\Array\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+H:\projects\deitel-c#\p1-ch9\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+H:\projects\deitel-c#\p1-ch9\Array\Array\obj\Debug\Array.exe
+H:\projects\deitel-c#\p1-ch9\Array\Array\obj\Debug\Array.pdb
